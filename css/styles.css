@@ -90,6 +90,45 @@ h2 {
     float: right;
 }
 
+.conteudo-lateral {
+    padding: 15px;
+    background: #ffffff;    
+    margin-bottom: 15px;
+}
+
+.conteudo-lateral h3 {
+    background: #ccc;
+    color: #565656;
+}
+
+.postagem-lateral {
+    padding: 5px;
+    border-bottom: 1px dotted #ccc;
+}
+
+.postagem-lateral p {
+    margin-bottom: 15px;
+}
+
+.postagem-lateral a {
+    display: inline-block;
+    background: #f7b600;
+    margin-bottom: 15px;
+}
+
+.postagem-lateral a:hover {
+    color: #4e4e4e;
+}
+#area-menu-lateral a {
+    padding: 5px    ;
+    color: #f7b600;
+    display: block;
+}
+
+#area-menu-lateral a:hover {
+    color: #4e4e4e;
+}
+
 #rodape {
     text-align: center;
     clear: both;
